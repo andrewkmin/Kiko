@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Andrew Min"
+description:        "aspiring."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+url:                "//kiko.gfjaru.com" # edit this later
+author:             "andrewkjmin"
 twitter:
-  username:         "gfjaru"
+  username:         "andrewkjmin"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -26,9 +26,15 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//127.0.0.1:4000/about"
+  - name:           "Github"
+    href:           "//github.com/andrewkmin"
+  - name:           "Twitter"
+    href:           "//twitter.com/andrewkjmin"
+  - name:           "LinkedIn"
+    href:           "//linkedin.com/in/andrewkmin"
+  - name:           "Photos"
+    href:           "//127.0.0.1:4000/photos"
 
 # Sass
 sass:
