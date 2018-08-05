@@ -26,15 +26,15 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "///about"
+    href:           "/about"
+  - name:           "Interests"
+    href:           "/interests"
   - name:           "Github"
     href:           "//github.com/andrewkmin"
   - name:           "Twitter"
     href:           "//twitter.com/andrewkjmin"
   - name:           "LinkedIn"
     href:           "//linkedin.com/in/andrewkmin"
-  - name:           "Photos"
-    href:           "///photos"
 
 # Sass
 sass:
